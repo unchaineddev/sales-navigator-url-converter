@@ -13,8 +13,8 @@ from sweet_cookies import save_cookie, load_cookie
 from extracting_links import links
 
 
-USERNAME = 'shraddhapoojary18@gmail.com'
-PASSWD = 'Bangara17019980'
+USERNAME = 'username@gmail.com'
+PASSWD = '########'
 
 # initialize driver 
 driver = webdriver.Chrome()
